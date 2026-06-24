@@ -1,6 +1,7 @@
  🖥️ DZ Laptop Trader
 The complete offline desktop application for laptop traders.
-📥 [Download from MediaFire]([https://www.mediafire.com/your-download-link-here](https://www.mediafire.com/file/d43hnsv0dqkgsnq/DZ+Laptop+Trader+Setup+1.0.0.exe/file))
+📥 [Download from MediaFire] 
+the link :https://www.mediafire.com/file/d43hnsv0dqkgsnq/DZ+Laptop+Trader+Setup+1.0.0.exe/file
 
 
 
